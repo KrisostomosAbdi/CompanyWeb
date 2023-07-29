@@ -7,6 +7,7 @@
   overflow: hidden;
   perspective: 50vw;
   perspective-origin: 50% 50%;
+  background: black;
 }
 .carousel__control {
   position: absolute;

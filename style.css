@@ -6,7 +6,7 @@ body {
   margin: 0 auto;
   padding: 0;
   font-size: 16px;
-  background: #000000;
+  background: #000000 !important;
 }
 body section {
   display: block;
